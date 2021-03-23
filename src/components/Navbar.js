@@ -9,8 +9,8 @@ function Navbar() {
 				Home
 			</Link>
 			<div className="other-link">
-				<Link className="link" to="/posts">
-					Posts
+				<Link className="link" to="/users">
+					Users
 				</Link>
 				<Link className="link" to="/about" style={{ marginLeft: '10px' }}>
 					About
